@@ -303,6 +303,8 @@ Prodigy_InfoTech_CyberSecurity/
 ├── .gitignore
 │
 └── README.md
+```
+---
 
 ## Skills & Concepts
 
@@ -439,6 +441,7 @@ through hands-on projects and structured technical learning.
 **Author:** Anisha Prasad
 
 **Period:** September 2026
+
 
 ---
 
