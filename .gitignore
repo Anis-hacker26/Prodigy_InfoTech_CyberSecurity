@@ -46,3 +46,7 @@ htmlcov/
 output/
 outputs/
 temp/
+# Python test and cache files
+.pytest_cache/
+__pycache__/
+*.py[cod]
